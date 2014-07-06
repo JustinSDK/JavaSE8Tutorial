@@ -7,3 +7,7 @@
  - P2-18
 
    ![P2-18](images/2_18_typo_1.JPG)
+
+ - A-2
+
+   ![A-2](images/A_2_typo_1.JPG)
