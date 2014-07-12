@@ -20,6 +20,10 @@
 
    ![P4-17](images/4_17_typo_1.JPG)
 
+- P6-14
+
+   ![P6-14](images/6_14_typo_1.JPG)
+
  - A-2
 
    ![A-2](images/A_2_typo_1.JPG)
