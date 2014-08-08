@@ -28,6 +28,11 @@
 
    ![P6-14](images/6_14_typo_1.JPG)
 
+
+## P12-41
+
+   ![P6-14](images/12_41_typo_1.JPG)
+
 ## A-2
 
    ![A-2](images/A_2_typo_1.JPG)
