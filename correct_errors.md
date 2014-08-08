@@ -31,7 +31,11 @@
 
 ## P12-41
 
-   ![P6-14](images/12_41_typo_1.JPG)
+   ![P12-41](images/12_41_typo_1.JPG)
+   
+## P12-46
+
+   ![P12-46](images/12_46_typo_1.JPG)
 
 ## A-2
 
