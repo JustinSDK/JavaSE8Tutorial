@@ -22,6 +22,14 @@
 
    ![P2-18](images/2_18_typo_1.JPG)
 
+## P2-20
+
+   ![P2-20](images/2_20_typo_1.JPG)
+
+## P3-25
+
+   ![P3-25](images/3_25_typo_1.JPG)
+
 ## P4-5
 
    ![P4-5](images/4_5_typo_1.JPG)
@@ -30,9 +38,21 @@
 
    ![P4-8](images/4_8_typo_1.JPG)
 
+## P4-13
+
+   ![P4-13](images/4_13_typo_1.JPG)
+
 ## P4-17
 
    ![P4-17](images/4_17_typo_1.JPG)
+
+## P4-19
+
+   ![P4-19](images/4_19_typo_1.JPG)
+
+## P4-32
+
+   ![P4-32](images/4_32_typo_1.JPG)
 
 ## P6-10
 
