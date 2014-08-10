@@ -4,6 +4,20 @@
 
    ![導讀 vii](images/vii_typo_1.JPG)
 
+
+## P1-9
+
+   ![P1-9](images/1_9_typo_1.JPG)
+
+## P1-13
+
+   ![P1-13](images/1_13_typo_1.JPG)
+
+
+## P2-15
+
+   ![P2-15](images/2_15_typo_1.JPG)
+
 ## P2-18
 
    ![P2-18](images/2_18_typo_1.JPG)
