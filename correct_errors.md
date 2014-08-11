@@ -54,6 +54,22 @@
 
    ![P4-32](images/4_32_typo_1.JPG)
 
+## P5-14
+
+   ![P5-14](images/5_14_typo_1.JPG)
+
+## P5-18
+
+   ![P5-18](images/5_18_typo_1.JPG)
+
+## P5-24
+
+   ![P5-24](images/5_24_typo_1.JPG)
+
+## P5-34
+
+   ![P5-34](images/5_34_typo_1.JPG)
+
 ## P6-10
 
    ![P6-14](images/6_10_typo_1.JPG)
