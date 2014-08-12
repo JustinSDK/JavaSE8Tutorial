@@ -87,6 +87,10 @@
 
    ![P12-46](images/12_46_typo_1.JPG)
 
+## P13-18
+
+   ![P13-18](images/13_18_typo_1.JPG)
+
 ## A-2
 
    ![A-2](images/A_2_typo_1.JPG)
