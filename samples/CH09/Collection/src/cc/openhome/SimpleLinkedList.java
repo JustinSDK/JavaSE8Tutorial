@@ -2,10 +2,10 @@ package cc.openhome;
 
 public class SimpleLinkedList {
     private class Node {
-        Node(Object o) {
-            this.elem = o;
+        Node(Object elem) {
+            this.elem = elem;
         }
-        Object o;
+        Object elem;
         Node next;
     }
     
