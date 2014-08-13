@@ -3,7 +3,7 @@ package cc.openhome;
 public class SimpleLinkedList {
     private class Node {
         Node(Object o) {
-            this.o = o;
+            this.elem = o;
         }
         Object o;
         Node next;
