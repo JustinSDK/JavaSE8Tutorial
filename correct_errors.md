@@ -78,6 +78,21 @@
 
    ![P6-14](images/6_14_typo_1.JPG)
 
+## P6-32
+
+   ![P6-32](images/6_32_typo_1.JPG)
+
+## P6-34
+
+   ![P6-34](images/6_34_typo_1.JPG)
+
+## P6-38
+
+   ![P6-38](images/6_38_typo_1.JPG)
+
+## P7-9
+
+   ![P7-9](images/7_9_typo_1.JPG)
 
 ## P12-41
 
@@ -90,6 +105,10 @@
 ## P13-18
 
    ![P13-18](images/13_18_typo_1.JPG)
+
+## P18-9
+
+   ![P18-9](images/18_9_typo_1.JPG)
 
 ## A-2
 
