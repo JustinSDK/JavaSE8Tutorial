@@ -2,10 +2,10 @@ package cc.openhome;
 
 public class SimpleLinkedList {
     private class Node {
-        Node(Object elem) {
-            this.elem = elem;
+        Node(Object o) {
+            this.o = o;
         }
-        Object elem;
+        Object o;
         Node next;
     }
     
@@ -59,6 +59,6 @@ public class SimpleLinkedList {
             last = last.next;
             count++;
         }
-        return last.elem;
+        return last.o;
     }
 }
