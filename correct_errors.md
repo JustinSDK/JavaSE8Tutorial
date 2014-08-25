@@ -106,6 +106,26 @@
 
    ![P9-7](images/9_7_typo_1.JPG)
 
+## P9-10
+
+   ![P9-10](images/9_10_typo_1.JPG)
+
+## P9-13
+
+   ![P9-13](images/9_13_typo_1.JPG)
+
+## P9-26
+
+   ![P9-26](images/9_26_typo_1.JPG)
+
+## P10-7
+
+   ![P10-7](images/10_7_typo_1.JPG)
+
+## P10-8
+
+   ![P10-8](images/10_8_typo_1.JPG)
+
 ## P12-41
 
    ![P12-41](images/12_41_typo_1.JPG)
