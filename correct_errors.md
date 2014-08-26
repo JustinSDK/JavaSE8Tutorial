@@ -98,6 +98,10 @@
 
    ![P7-23](images/7_23_typo_1.JPG)
 
+## P8-24
+
+   ![P8-24](images/8_24_typo_1.JPG)
+
 ## P9-6
 
    ![P9-6](images/9_6_typo_1.JPG)
@@ -129,10 +133,6 @@
 ## P12-41
 
    ![P12-41](images/12_41_typo_1.JPG)
-   
-## P8-24
-
-   ![P8-24](images/8_24_typo_1.JPG)
 
 ## P12-35
 
