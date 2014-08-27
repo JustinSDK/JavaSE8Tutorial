@@ -130,6 +130,10 @@
 
    ![P10-8](images/10_8_typo_1.JPG)
 
+## P12-3
+
+   ![P12-3](images/12_3_typo_1.JPG)
+
 ## P12-41
 
    ![P12-41](images/12_41_typo_1.JPG)
