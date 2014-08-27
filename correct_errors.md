@@ -130,6 +130,42 @@
 
    ![P10-8](images/10_8_typo_1.JPG)
 
+## P10-11
+
+   ![P10-11](images/10_11_typo_1.JPG)
+
+## P10-17
+
+   ![P10-17](images/10_17_typo_1.JPG)
+
+## P11-13
+
+   ![P11-13](images/11_13_typo_1.JPG)
+
+## P11-17
+
+   ![P11-17](images/11_17_typo_1.JPG)
+
+## P11-20
+
+   ![P11-20](images/11_20_typo_1.JPG)
+
+## P11-23
+
+   ![P11-23](images/11_23_typo_1.JPG)
+
+## P11-27
+
+   ![P11-27](images/11_27_typo_1.JPG)
+
+## P11-28
+
+   ![P11-28](images/11_28_typo_1.JPG)
+
+## P11-30
+
+   ![P11-30](images/11_30_typo_1.JPG)
+
 ## P12-3
 
    ![P12-3](images/12_3_typo_1.JPG)
