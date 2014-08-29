@@ -166,6 +166,18 @@
 
    ![P11-30](images/11_30_typo_1.JPG)
 
+## P11-33
+
+   ![P11-33](images/11_33_typo_1.JPG)
+
+## P11-44
+
+   ![P11-44](images/11_44_typo_1.JPG)
+
+## P11-53
+
+   ![P11-53](images/11_53_typo_1.JPG)
+
 ## P12-3
 
    ![P12-3](images/12_3_typo_1.JPG)
