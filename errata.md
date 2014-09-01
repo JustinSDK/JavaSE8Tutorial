@@ -182,6 +182,10 @@
 
    ![P12-3](images/12_3_typo_1.JPG)
 
+## P12-13
+
+   ![P12-13](images/12_13_typo_1.JPG)
+
 ## P12-41
 
    ![P12-41](images/12_41_typo_1.JPG)
