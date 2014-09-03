@@ -190,6 +190,10 @@
 
    ![P12-13](images/12_13_typo_1.JPG)
 
+## P12-16
+
+   ![P12-16](images/12_16_typo_1.JPG)
+
 ## P12-19
 
    ![P12-19](images/12_19_typo_1.JPG)
