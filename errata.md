@@ -190,13 +190,37 @@
 
    ![P12-13](images/12_13_typo_1.JPG)
 
-## P12-41
+## P12-19
 
-   ![P12-41](images/12_41_typo_1.JPG)
+   ![P12-19](images/12_19_typo_1.JPG)
+
+## P12-27
+
+   ![P12-27](images/12_27_typo_1.JPG)
+
+## P12-28
+
+   ![P12-28](images/12_28_typo_1.JPG)
+
+## P12-29
+
+   ![P12-29](images/12_29_typo_1.JPG)
 
 ## P12-35
 
-   ![P12-46](images/12_35_typo_1.JPG)
+   ![P12-35](images/12_35_typo_1.JPG)
+
+## P12-36
+
+   ![P12-36](images/12_36_typo_1.JPG)
+
+## P12-36
+
+   ![P12-36](images/12_36_typo_2.JPG)
+
+## P12-41
+
+   ![P12-41](images/12_41_typo_1.JPG)
    
 ## P12-46
 
