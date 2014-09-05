@@ -230,6 +230,22 @@
 
    ![P12-46](images/12_46_typo_1.JPG)
 
+## P12-48
+
+   ![P12-48](images/12_48_typo_1.JPG)
+
+## P12-48
+
+   ![P12-48](images/12_48_typo_2.JPG)
+
+## P13-7
+
+   ![P13-7](images/13_7_typo_1.JPG)
+
+## P13-9
+
+   ![P13-9](images/13_9_typo_1.JPG)
+
 ## P13-18
 
    ![P13-18](images/13_18_typo_1.JPG)
