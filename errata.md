@@ -282,6 +282,22 @@
 
    ![P14-28](images/14_28_typo_1.JPG)
 
+## P15-3
+
+   ![P15-3](images/15_3_typo_1.JPG)
+
+## P15-12
+
+   ![P15-12](images/15_12_typo_1.JPG)
+
+## P15-27
+
+   ![P15-27](images/15_27_typo_1.JPG)
+
+## P15-32
+
+   ![P15-32](images/15_32_typo_1.JPG)
+
 ## P18-9
 
    ![P18-9](images/18_9_typo_1.JPG)
