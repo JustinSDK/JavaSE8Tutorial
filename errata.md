@@ -298,6 +298,82 @@
 
    ![P15-32](images/15_32_typo_1.JPG)
 
+## P16-9
+
+   ![P16-9](images/16_9_typo_1.JPG)
+
+## P16-10
+
+   ![P16-10](images/16_10_typo_1.JPG)
+
+## P16-10
+
+   ![P16-10](images/16_10_typo_2.JPG)
+
+## P16-13
+
+   ![P16-13](images/16_13_typo_2.JPG)
+
+## P16-15
+
+   ![P16-15](images/16_15_typo_1.JPG)
+
+## P16-21
+
+   ![P16-21](images/16_21_typo_1.JPG)
+
+## P16-21
+
+   ![P16-21](images/16_21_typo_2.JPG)
+
+## P16-25
+
+   ![P16-25](images/16_25_typo_1.JPG)
+
+## P16-28
+
+   ![P16-28](images/16_28_typo_1.JPG)
+
+## P16-30
+
+   ![P16-30](images/16_30_typo_1.JPG)
+
+## P16-31
+
+   ![P16-31](images/16_31_typo_1.JPG)
+
+## P16-32
+
+   ![P16-32](images/16_32_typo_1.JPG)
+
+## P16-39
+
+   ![P16-39](images/16_39_typo_1.JPG)
+
+## P16-40
+
+   ![P16-40](images/16_40_typo_1.JPG)
+
+## P16-40
+
+   ![P16-40](images/16_40_typo_2.JPG)
+
+## P16-47
+
+   ![P16-47](images/16_47_typo_1.JPG)
+
+## P16-49
+
+   ![P16-49](images/16_49_typo_1.JPG)
+
+## P16-53
+
+   ![P16-53](images/16_53_typo_1.JPG)
+
+## P16-51
+
+   ![P16-51](images/16_51_typo_1.JPG)
+
 ## P18-9
 
    ![P18-9](images/18_9_typo_1.JPG)
