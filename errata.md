@@ -374,6 +374,30 @@
 
    ![P16-51](images/16_51_typo_1.JPG)
 
+## P17-5
+
+   ![P17-5](images/17_5_typo_1.JPG)
+
+## P17-11
+
+   ![P17-11](images/17_11_typo_1.JPG)
+
+## P17-15
+
+   ![P17-15](images/17_15_typo_1.JPG)
+
+## P17-19
+
+   ![P17-19](images/17_19_typo_1.JPG)
+
+## P17-25
+
+   ![P17-25](images/17_25_typo_1.JPG)
+
+## P17-26
+
+   ![P17-26](images/17_26_typo_1.JPG)
+
 ## P18-9
 
    ![P18-9](images/18_9_typo_1.JPG)
