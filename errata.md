@@ -402,6 +402,22 @@
 
    ![P18-9](images/18_9_typo_1.JPG)
 
+## P18-16
+
+   ![P18-16](images/18_16_typo_1.JPG)
+
+## P18-22
+
+   ![P18-22](images/18_22_typo_1.JPG)
+
+## P18-25
+
+   ![P18-25](images/18_25_typo_1.JPG)
+
+## P18-27
+
+   ![P18-27](images/18_27_typo_1.JPG)
+
 ## A-2
 
    ![A-2](images/A_2_typo_1.JPG)
