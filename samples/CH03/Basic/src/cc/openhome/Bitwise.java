@@ -3,7 +3,7 @@ package cc.openhome;
 public class Bitwise {
     public static void main(String[] args) {
         System.out.println("AND運算："); 
-        System.out.printf("0 AND 0 %5d%n", 0 & 1);
+        System.out.printf("0 AND 0 %5d%n", 0 & 0);
         System.out.printf("0 AND 1 %5d%n", 0 & 1); 
         System.out.printf("1 AND 0 %5d%n", 1 & 0); 
         System.out.printf("1 AND 1 %5d%n", 1 & 1); 

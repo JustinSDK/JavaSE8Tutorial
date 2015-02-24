@@ -26,6 +26,10 @@
 
    ![P2-20](images/2_20_typo_1.JPG)
 
+## P3-14
+
+   ![P3-25](images/3_14_typo_1.JPG)
+
 ## P3-25
 
    ![P3-25](images/3_25_typo_1.JPG)
