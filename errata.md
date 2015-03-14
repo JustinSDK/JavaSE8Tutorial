@@ -198,6 +198,10 @@
 
    ![P12-16](images/12_16_typo_1.JPG)
 
+## P12-18
+
+   ![P12-18](images/12_18_typo_1.JPG)
+
 ## P12-19
 
    ![P12-19](images/12_19_typo_1.JPG)
