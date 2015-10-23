@@ -54,6 +54,10 @@
 
    ![P4-19](images/4_19_typo_1.JPG)
 
+## P4-25 
+
+   ![P4-25](images/4_25_typo_1.JPG)
+
 ## P4-32
 
    ![P4-32](images/4_32_typo_1.JPG)
