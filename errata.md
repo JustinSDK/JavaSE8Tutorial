@@ -1,5 +1,9 @@
 # Java SE 8 技術手冊一刷勘誤
 
+## 導讀 v
+
+   ![導讀 v](images/v_typo_1.JPG)
+
 ## 導讀 vii
 
    ![導讀 vii](images/vii_typo_1.JPG)
