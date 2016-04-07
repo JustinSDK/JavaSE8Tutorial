@@ -9,6 +9,10 @@
    ![導讀 vii](images/vii_typo_1.JPG)
 
 
+## P1-2
+
+   ![P1-2](images/1_2_typo_1.JPG)
+
 ## P1-9
 
    ![P1-9](images/1_9_typo_1.JPG)
