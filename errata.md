@@ -430,6 +430,10 @@
 
    ![P18-22](images/18_22_typo_1.JPG)
 
+## P18-23
+
+   ![P18-23](images/18_23_typo_1.JPG)
+
 ## P18-25
 
    ![P18-25](images/18_25_typo_1.JPG)
