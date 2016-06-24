@@ -262,6 +262,14 @@
 
    ![P13-7](images/13_7_typo_1.JPG)
 
+## P13-8
+
+   ![P13-8](images/13_8_typo_1.JPG)
+
+## P13-9
+
+   ![P13-9](images/13_9_typo_2.JPG)
+
 ## P13-9
 
    ![P13-9](images/13_9_typo_1.JPG)
