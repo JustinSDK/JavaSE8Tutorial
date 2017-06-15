@@ -134,6 +134,10 @@
 
    ![P9-13](images/9_13_typo_1.JPG)
 
+## P9-16
+
+   ![P9-16](images/9_16_typo_1.JPG)
+
 ## P9-26
 
    ![P9-26](images/9_26_typo_1.JPG)
